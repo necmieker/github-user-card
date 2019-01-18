@@ -34,3 +34,9 @@ const CardList = (props) => {
   ...
 }
 ```
+
+## Demo usage
+
+https://github-user-card.herokuapp.com/
+
+Sample users: necmieker, kamil, hasan, ahmet, etc.
